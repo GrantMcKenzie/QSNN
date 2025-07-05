@@ -1,2 +1,2 @@
 # QSNN
-This project combines brain-inspired spiking neural networks with quantum neural networks to harness energy-efficient, event-driven processing and quantum superposition for novel pattern recognition. 
+As AI pushes classical computing to its limits, brain-inspired and quantum paradigms promise more efficient, adaptive, and powerful computation. This project explores a hybrid neural engineering framework that combines spiking neural networks (SNNs) — mimicking the brain’s event-driven, energy-efficient processing — with quantum neural networks (QNNs). By leveraging quantum principles like superposition and entanglement alongside SNNs, it aims to unlock novel pattern-recognition capabilities.
